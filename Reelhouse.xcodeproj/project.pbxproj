@@ -1,0 +1,509 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		05AAF16758ED91314184C234 /* NoxDiaryFolio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5C0E1F4049469645558D0B /* NoxDiaryFolio.swift */; };
+		12C7CE0D092A8FE9673CDD40 /* QuillScriptBay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB88680427659AFFF5568A1 /* QuillScriptBay.swift */; };
+		1BE91D136D085D397E0D578D /* VyrethChrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6052EC9E84C4C470E3C5A24E /* VyrethChrome.swift */; };
+		1E0143C4941F36514C0BA7F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582F36298F9062AC97E448FB /* SceneDelegate.swift */; };
+		2443E5FFEFC4284B2B88A755 /* vyreth_book.json in Resources */ = {isa = PBXBuildFile; fileRef = 6337DAC297B27FFA4A6BBB5F /* vyreth_book.json */; };
+		3068E727534CA2E249DA2C68 /* VyrethLedgerHub.swift in Sources */ = {isa = PBXBuildFile; fileRef = B182B4B4E289780BF3C1604F /* VyrethLedgerHub.swift */; };
+		45BA8DF5E85294116B74AC89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C457F5F9AFFB0582BDE3009B /* Assets.xcassets */; };
+		57AF272875DA48E82E724A87 /* VyrethCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7852E91645B463A0BA99709 /* VyrethCatalog.swift */; };
+		57F5D32E525EA69148C69D3A /* KorrinTodayDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1694649BAA15D93B3883D186 /* KorrinTodayDeck.swift */; };
+		6A7A164594E524E196E29D73 /* VyrethOnboardFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E9C340B2283AE3E7018FC11 /* VyrethOnboardFlow.swift */; };
+		6D68489573091F2547AACF71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9121526E0CB7FCD264CE0564 /* AppDelegate.swift */; };
+		6ECE5B5F195E1432AA42F640 /* AurelProfileAtrium.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E300A55860FC5CB96C2D19 /* AurelProfileAtrium.swift */; };
+		9C7D7B469B8035882A93F310 /* MeldAcademyHall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23471B8A09D41F04161CF50E /* MeldAcademyHall.swift */; };
+		A98AB7612D476BABF5754FFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15C560C88262C7392FDA170 /* Main.storyboard */; };
+		B28D4FA1C5E39A72D1BB22F3 /* BrimqorVellum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17C3E90B4D28F61C0AA11E2 /* BrimqorVellum.swift */; };
+		D52F24F5AFD1B7D4A4300399 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B31F81D4B1DAEDDF2A491D4 /* ContentView.swift */; };
+		E3FC5C2CEB357C6B38B1828B /* QuillPracticeBay.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8796A3EEB8B141DE30F2DB7 /* QuillPracticeBay.swift */; };
+		EB25BE40549B9A7F24EAA5DE /* VyrethLinkEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247244D8A9C672929BC6A3CE /* VyrethLinkEnum.swift */; };
+		F177C6E4C3B2165DD7F9236F /* VyrethNotifyBell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 554C11F5CB72F4FC109578D1 /* VyrethNotifyBell.swift */; };
+		F90F5A125AA0B58CF45F7824 /* VyrethLedgerBlob.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF87F7FE845C888B7F90A5F /* VyrethLedgerBlob.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0B31F81D4B1DAEDDF2A491D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1694649BAA15D93B3883D186 /* KorrinTodayDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KorrinTodayDeck.swift; sourceTree = "<group>"; };
+		22B14B5BE5C116DC90F1A190 /* Pods_Reelhouse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Reelhouse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		23471B8A09D41F04161CF50E /* MeldAcademyHall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeldAcademyHall.swift; sourceTree = "<group>"; };
+		247244D8A9C672929BC6A3CE /* VyrethLinkEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethLinkEnum.swift; sourceTree = "<group>"; };
+		471C6718C1C2C858CBF8A7D3 /* Pods-Reelhouse.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reelhouse.debug.xcconfig"; path = "Target Support Files/Pods-Reelhouse/Pods-Reelhouse.debug.xcconfig"; sourceTree = "<group>"; };
+		4BB88680427659AFFF5568A1 /* QuillScriptBay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuillScriptBay.swift; sourceTree = "<group>"; };
+		554C11F5CB72F4FC109578D1 /* VyrethNotifyBell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethNotifyBell.swift; sourceTree = "<group>"; };
+		582F36298F9062AC97E448FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		6052EC9E84C4C470E3C5A24E /* VyrethChrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethChrome.swift; sourceTree = "<group>"; };
+		6337DAC297B27FFA4A6BBB5F /* vyreth_book.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vyreth_book.json; sourceTree = "<group>"; };
+		85B742EBFF0E2F280000E48A /* Pods-Reelhouse.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reelhouse.release.xcconfig"; path = "Target Support Files/Pods-Reelhouse/Pods-Reelhouse.release.xcconfig"; sourceTree = "<group>"; };
+		8C5C0E1F4049469645558D0B /* NoxDiaryFolio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoxDiaryFolio.swift; sourceTree = "<group>"; };
+		8E9C340B2283AE3E7018FC11 /* VyrethOnboardFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethOnboardFlow.swift; sourceTree = "<group>"; };
+		9121526E0CB7FCD264CE0564 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A15C560C88262C7392FDA170 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		A17C3E90B4D28F61C0AA11E2 /* BrimqorVellum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrimqorVellum.swift; sourceTree = "<group>"; };
+		A2E300A55860FC5CB96C2D19 /* AurelProfileAtrium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurelProfileAtrium.swift; sourceTree = "<group>"; };
+		A7852E91645B463A0BA99709 /* VyrethCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethCatalog.swift; sourceTree = "<group>"; };
+		B182B4B4E289780BF3C1604F /* VyrethLedgerHub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethLedgerHub.swift; sourceTree = "<group>"; };
+		C457F5F9AFFB0582BDE3009B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DFF87F7FE845C888B7F90A5F /* VyrethLedgerBlob.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VyrethLedgerBlob.swift; sourceTree = "<group>"; };
+		E8796A3EEB8B141DE30F2DB7 /* QuillPracticeBay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuillPracticeBay.swift; sourceTree = "<group>"; };
+		F93418C760607A9AF5E234C7 /* Reelhouse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reelhouse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1C3F95024379C798A52CE97C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		01F80F77CCACCF9508E19F32 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DFF87F7FE845C888B7F90A5F /* VyrethLedgerBlob.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		076D4C805E7AD832FA1A5BB8 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				0B31F81D4B1DAEDDF2A491D4 /* ContentView.swift */,
+				4B8450B2CE86609D29E7A562 /* Content */,
+				97A22500C9E0AEFAD03384F4 /* DesignSystem */,
+				FDC600E1D83444E20AE42954 /* Features */,
+				01F80F77CCACCF9508E19F32 /* Models */,
+				62A1BD161A8738558712A875 /* Services */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		2926C9C5818433DBA06F5C01 /* Academy */ = {
+			isa = PBXGroup;
+			children = (
+				23471B8A09D41F04161CF50E /* MeldAcademyHall.swift */,
+			);
+			path = Academy;
+			sourceTree = "<group>";
+		};
+		401CDFDAFE354615EA4E6468 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				8E9C340B2283AE3E7018FC11 /* VyrethOnboardFlow.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		4B8450B2CE86609D29E7A562 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				A7852E91645B463A0BA99709 /* VyrethCatalog.swift */,
+				6337DAC297B27FFA4A6BBB5F /* vyreth_book.json */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
+		62A1BD161A8738558712A875 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				B182B4B4E289780BF3C1604F /* VyrethLedgerHub.swift */,
+				247244D8A9C672929BC6A3CE /* VyrethLinkEnum.swift */,
+				554C11F5CB72F4FC109578D1 /* VyrethNotifyBell.swift */,
+				A17C3E90B4D28F61C0AA11E2 /* BrimqorVellum.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		64C011AD053F5F8A4E473ECA = {
+			isa = PBXGroup;
+			children = (
+				D8212DE3E2EB5DADAE483FCF /* Reelhouse */,
+				D8B0A2C964B28B280A696AEB /* Products */,
+				87B07196E98999225AD930D8 /* Pods */,
+				AB918C33B135882B912D2DEF /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		76FA89C011F7F6C5F742F3FA /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				A15C560C88262C7392FDA170 /* Main.storyboard */,
+			);
+			path = Base.lproj;
+			sourceTree = "<group>";
+		};
+		7C330601915118EC2BE2ADEB /* App */ = {
+			isa = PBXGroup;
+			children = (
+				9121526E0CB7FCD264CE0564 /* AppDelegate.swift */,
+				582F36298F9062AC97E448FB /* SceneDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		87B07196E98999225AD930D8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				471C6718C1C2C858CBF8A7D3 /* Pods-Reelhouse.debug.xcconfig */,
+				85B742EBFF0E2F280000E48A /* Pods-Reelhouse.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		97A22500C9E0AEFAD03384F4 /* DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				6052EC9E84C4C470E3C5A24E /* VyrethChrome.swift */,
+			);
+			path = DesignSystem;
+			sourceTree = "<group>";
+		};
+		AB918C33B135882B912D2DEF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				22B14B5BE5C116DC90F1A190 /* Pods_Reelhouse.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ADEF4A41890F34E2329BC288 /* Practice */ = {
+			isa = PBXGroup;
+			children = (
+				E8796A3EEB8B141DE30F2DB7 /* QuillPracticeBay.swift */,
+				4BB88680427659AFFF5568A1 /* QuillScriptBay.swift */,
+			);
+			path = Practice;
+			sourceTree = "<group>";
+		};
+		D8212DE3E2EB5DADAE483FCF /* Reelhouse */ = {
+			isa = PBXGroup;
+			children = (
+				C457F5F9AFFB0582BDE3009B /* Assets.xcassets */,
+				7C330601915118EC2BE2ADEB /* App */,
+				76FA89C011F7F6C5F742F3FA /* Base.lproj */,
+				076D4C805E7AD832FA1A5BB8 /* Code */,
+			);
+			path = Reelhouse;
+			sourceTree = "<group>";
+		};
+		D8B0A2C964B28B280A696AEB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F93418C760607A9AF5E234C7 /* Reelhouse.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F051A2BA12418FF0C5FE0C35 /* Diary */ = {
+			isa = PBXGroup;
+			children = (
+				8C5C0E1F4049469645558D0B /* NoxDiaryFolio.swift */,
+			);
+			path = Diary;
+			sourceTree = "<group>";
+		};
+		F3CA06A3C678B4A3AE323A57 /* Today */ = {
+			isa = PBXGroup;
+			children = (
+				1694649BAA15D93B3883D186 /* KorrinTodayDeck.swift */,
+			);
+			path = Today;
+			sourceTree = "<group>";
+		};
+		F4F33D1CED57FE61CFB845C7 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				A2E300A55860FC5CB96C2D19 /* AurelProfileAtrium.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		FDC600E1D83444E20AE42954 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				2926C9C5818433DBA06F5C01 /* Academy */,
+				F051A2BA12418FF0C5FE0C35 /* Diary */,
+				401CDFDAFE354615EA4E6468 /* Onboarding */,
+				ADEF4A41890F34E2329BC288 /* Practice */,
+				F4F33D1CED57FE61CFB845C7 /* Profile */,
+				F3CA06A3C678B4A3AE323A57 /* Today */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DB75D9AD7731BCE272042EE6 /* Reelhouse */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C41336A4BAEC110E0718A4DF /* Build configuration list for PBXNativeTarget "Reelhouse" */;
+			buildPhases = (
+				D8090723826D85DBA096645A /* [CP] Check Pods Manifest.lock */,
+				0161C20CCD293F02CABC9807 /* Sources */,
+				1C3F95024379C798A52CE97C /* Frameworks */,
+				F21B77D7C333E5E0BA784F62 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Reelhouse;
+			productName = Reelhouse;
+			productReference = F93418C760607A9AF5E234C7 /* Reelhouse.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D6170FAF10B98615065C3ED0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 5FB20B0FE863CCA7DBA50521 /* Build configuration list for PBXProject "Reelhouse" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 64C011AD053F5F8A4E473ECA;
+			productRefGroup = D8B0A2C964B28B280A696AEB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DB75D9AD7731BCE272042EE6 /* Reelhouse */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F21B77D7C333E5E0BA784F62 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				45BA8DF5E85294116B74AC89 /* Assets.xcassets in Resources */,
+				A98AB7612D476BABF5754FFE /* Main.storyboard in Resources */,
+				2443E5FFEFC4284B2B88A755 /* vyreth_book.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		D8090723826D85DBA096645A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Reelhouse-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0161C20CCD293F02CABC9807 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6D68489573091F2547AACF71 /* AppDelegate.swift in Sources */,
+				1E0143C4941F36514C0BA7F3 /* SceneDelegate.swift in Sources */,
+				57AF272875DA48E82E724A87 /* VyrethCatalog.swift in Sources */,
+				D52F24F5AFD1B7D4A4300399 /* ContentView.swift in Sources */,
+				1BE91D136D085D397E0D578D /* VyrethChrome.swift in Sources */,
+				9C7D7B469B8035882A93F310 /* MeldAcademyHall.swift in Sources */,
+				05AAF16758ED91314184C234 /* NoxDiaryFolio.swift in Sources */,
+				6A7A164594E524E196E29D73 /* VyrethOnboardFlow.swift in Sources */,
+				E3FC5C2CEB357C6B38B1828B /* QuillPracticeBay.swift in Sources */,
+				12C7CE0D092A8FE9673CDD40 /* QuillScriptBay.swift in Sources */,
+				6ECE5B5F195E1432AA42F640 /* AurelProfileAtrium.swift in Sources */,
+				57F5D32E525EA69148C69D3A /* KorrinTodayDeck.swift in Sources */,
+				F90F5A125AA0B58CF45F7824 /* VyrethLedgerBlob.swift in Sources */,
+				3068E727534CA2E249DA2C68 /* VyrethLedgerHub.swift in Sources */,
+				EB25BE40549B9A7F24EAA5DE /* VyrethLinkEnum.swift in Sources */,
+				B28D4FA1C5E39A72D1BB22F3 /* BrimqorVellum.swift in Sources */,
+				F177C6E4C3B2165DD7F9236F /* VyrethNotifyBell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		035A9810B303F5118B79A80A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_NS_ASSERTIONS = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		BB47A6908DDBDBE42089ADB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = s;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		ED1F7D0E5F84C93F7BF92012 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 85B742EBFF0E2F280000E48A /* Pods-Reelhouse.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Reelhouse/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Oracel Projector";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rns.r4k3lpr0j;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		EF852F690CD6552604DB7FBC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 471C6718C1C2C858CBF8A7D3 /* Pods-Reelhouse.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Reelhouse/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Oracel Projector";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rns.r4k3lpr0j;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5FB20B0FE863CCA7DBA50521 /* Build configuration list for PBXProject "Reelhouse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				035A9810B303F5118B79A80A /* Debug */,
+				BB47A6908DDBDBE42089ADB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C41336A4BAEC110E0718A4DF /* Build configuration list for PBXNativeTarget "Reelhouse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF852F690CD6552604DB7FBC /* Debug */,
+				ED1F7D0E5F84C93F7BF92012 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D6170FAF10B98615065C3ED0 /* Project object */;
+}

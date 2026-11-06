@@ -1,0 +1,6 @@
+framework module Pods_Reelhouse {
+  umbrella header "Pods-Reelhouse-umbrella.h"
+
+  export *
+  module * { export * }
+}
